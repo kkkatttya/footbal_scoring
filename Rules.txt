@@ -1,0 +1,16 @@
+Points:
+Team gets 3 points if it wins, 1 if it's a draw, 0 if it loses
+
+
+Rules of Italian league:
+If two or more teams are tied in points (for any place), the deciding tie-breakers are as follows: 
+1. Head-to-head records (results and points) 2. Goal difference of head-to-head games 3. Goal difference overall 4. Higher number of goals scored 
+
+Rules of Spanish league:
+If the tie is between two or more clubs, then the tie is broken using the games the clubs have played against each other:
+1. head-to-head points
+2. head-to-head goal difference
+3. total goal difference
+
+Rules of English league:
+If any clubs finish with the same number of points, their position in the Premier League table is determined by goal difference, then the number of goals scored. If the teams still cannot be separated, they will be awarded the same position in the table. 
